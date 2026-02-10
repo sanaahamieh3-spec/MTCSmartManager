@@ -19,3 +19,14 @@ This module implements security controls for the MTC Smart Manager system.
 
 ## Author
 **Sanaa Hamieh** – Security Engineer
+
+## 🔐 Security Module
+This project includes a dedicated security engineering module implementing:
+- Audit logging & risk scoring
+- Automated alerts and incident response
+- Encryption key management
+- Session termination for high-risk activity
+- Scheduled security automation
+
+📁 Located in `/security`
+
